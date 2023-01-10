@@ -50,5 +50,13 @@ module.exports = [
     {
         id: 13,
         text: "once more... once more.."
+    },
+    {
+        id: 14,
+        text: "पता नहीं ऐसा कब तक चलता रहेगा"
+    },
+    {
+        id: 15,
+        text: "ये गधेड़ा समझ ही नहीं रहा"
     }
 ];
